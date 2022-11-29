@@ -30,5 +30,5 @@
 
 [![Shanmukha's github activity graph](https://activity-graph.herokuapp.com/graph?username=pshanmukha&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pshanmukha&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Shanmukha's GitHub stats](https://github-readme-stats.vercel.app/api?username=pshanmukha&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=pshanmukha&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats-iota-vert.vercel.app/api/top-langs/?username=pshanmukha&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Shanmukha's GitHub stats](https://github-readme-stats-iota-vert.vercel.app/api?username=pshanmukha&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=pshanmukha&theme=dark)](https://git.io/streak-stats)
