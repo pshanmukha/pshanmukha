@@ -9,7 +9,7 @@ no![logo](https://theninehertz.com/wp-content/uploads/2020/02/09flutter-works.jp
 
 - 🔭 I’m currently working on **Fleet Car Sharing App**
 
-- 🌱 I’m currently learning **React Native, Node JS**
+- 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **Flutter, Dart, Python**
 
