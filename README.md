@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shanmukhapanyam10@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://pshanmukha.github.io/shanmukhap](https://pshanmukha.github.io/shanmukhap)
+- 👨‍💻 All of my projects are available at [https://pshanmukha.github.io/shanmukha_portfolio](https://pshanmukha.github.io/shanmukha_portfolio)
 
 - ⚡ Fun fact **I do like chai ☕**
 
