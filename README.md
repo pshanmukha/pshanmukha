@@ -1,7 +1,7 @@
 ![logo](https://theninehertz.com/wp-content/uploads/2020/02/09flutter-works.jpg)
 
 <h1 align="center">Hi 👋, I'm Shanmukha</h1>
-<h3 align="center">Flutter Developer | Python Enthusiast | AWS Certified Cloud Practitioner</h3>
+<h3 align="center">React, Flutter Developer | Python Enthusiast | AWS Certified Cloud Practitioner</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/pshanmukha/pshanmukha/blob/main/assests/output-onlinegiftools.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pshanmukha&label=Profile%20views&color=0e75b6&style=flat" alt="pshanmukha" /> </p>
 
@@ -9,9 +9,7 @@
 
 - 🔭 I’m currently working on **Fleet Car Sharing App**
 
-- 🌱 I’m currently learning **ReactJS**
-
-- 💬 Ask me about **Flutter, Dart, Python**
+- 💬 Ask me about **Flutter, React, Dart, Python**
 
 - 📫 How to reach me **shanmukhapanyam10@gmail.com**
 
