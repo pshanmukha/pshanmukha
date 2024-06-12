@@ -1,4 +1,4 @@
-![logo](https://theninehertz.com/wp-content/uploads/2020/02/09flutter-works.jpg)
+![logo](https://media.licdn.com/dms/image/D5616AQF_LRvAIq8fbA/profile-displaybackgroundimage-shrink_350_1400/0/1701430796177?e=1723680000&v=beta&t=YAspbfA8CgDo1DSRp344DHJRKCsUlwO6yPOGdw6-Mj8)
 
 <h1 align="center">Hi 👋, I'm Shanmukha</h1>
 <h3 align="center">React, Flutter Developer | Python Enthusiast | AWS Certified Cloud Practitioner</h3>
